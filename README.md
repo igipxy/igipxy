@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Gesang
 
-<!--
-**igipxy/igipxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 This Week I Spent My Time On:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+<!--START_SECTION:stats-->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+<!--END_SECTION:stats-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- LinkedIn: (www.linkedin.com/in/gesangrah-pratama-b2835736a)
+
+*Last updated: {{date}}*
